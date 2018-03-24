@@ -1,0 +1,24 @@
+{
+  "name": "testyourspeed",
+  "version": "1.0.0",
+  "description": "This is a simple project testing your typing speed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmshiyas/typingspeedtest.git"
+  },
+  "keywords": [
+    "typing",
+    "speed",
+    "test"
+  ],
+  "author": "Shiyas Cholamukhath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmshiyas/typingspeedtest/issues"
+  },
+  "homepage": "https://github.com/cmshiyas/typingspeedtest#readme"
+}
