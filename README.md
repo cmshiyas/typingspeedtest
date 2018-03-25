@@ -1,6 +1,6 @@
-This is a simple project that test your typing speed.
+# This is a simple project that test your typing speed.
 
-How to run this project?
+## How to run this project?
 1. Clone this project to your system folder
 git clone https://github.com/cmshiyas/typingspeedtest.git
 2. Move to the folder
